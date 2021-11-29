@@ -19,7 +19,7 @@ Someone will set you up.
 
 #### On the staging area
 
-We do not have an environment for you to check your translations immediately, you will have to wait for them to be published on the staging URL: https://staging.telestodao.finance
+We do not have an environment for you to check your translations immediately, you will have to wait for them to be published on the staging URL: https://staging.telesto.money
 
 If you really want to check your translations and you have a bit of knowledge with git and npm do the following
 
