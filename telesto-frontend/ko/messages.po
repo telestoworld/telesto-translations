@@ -33,7 +33,7 @@ msgstr "3, 3 투게더"
 msgid "A zap swap is a series of smart contracts that deploys one asset to another a protocol to handle a trusted transaction."
 msgstr ""
 
-#: src/components/TopBar/OhmMenu.jsx:155
+#: src/components/TopBar/TeloMenu.jsx:155
 msgid "ADD TOKEN TO WALLET"
 msgstr "지갑에 토큰 추가"
 
@@ -78,7 +78,7 @@ msgid "Asset"
 msgstr "자산"
 
 #: src/views/Zap/ZapStakeHeader.jsx:56
-msgid "Auto staked for sOHM"
+msgid "Auto staked for sTELO"
 msgstr ""
 
 #: src/views/33Together/PoolPrize.jsx:114
@@ -94,8 +94,8 @@ msgid "Award period has finished, you can navigate to Pool Together's UI to comp
 msgstr "어워드 기간이 끝났습니다. 이제 풀의 UI를 통해 배분을 마칠 수 있습니다."
 
 #: src/views/TreasuryDashboard/TreasuryDashboard.jsx:147
-#~ msgid "Backing per OHM"
-#~ msgstr "OHM 당 지지 자산"
+#~ msgid "Backing per TELO"
+#~ msgstr "TELO 당 지지 자산"
 
 #: src/views/Stake/ExternalStakePool.jsx:97
 #: src/views/Stake/ExternalStakePool.jsx:196
@@ -121,21 +121,21 @@ msgstr "본드 할인"
 msgid "Bond {0}"
 msgstr "본드 {0}"
 
-#: src/components/TopBar/OhmMenu.jsx:104
-#: src/components/TopBar/OhmMenu.jsx:117
+#: src/components/TopBar/TeloMenu.jsx:104
+#: src/components/TopBar/TeloMenu.jsx:117
 #~ msgid "Buy on"
 #~ msgstr "구입"
 
-#: src/components/TopBar/OhmMenu.jsx:104
+#: src/components/TopBar/TeloMenu.jsx:104
 #~ msgid "Buy on Sushiswap"
 #~ msgstr "스시스왑에서 구입"
 
-#: src/components/TopBar/OhmMenu.jsx:117
+#: src/components/TopBar/TeloMenu.jsx:117
 #~ msgid "Buy on Uniswap"
 #~ msgstr "유니스왑에서 구입"
 
-#: src/components/TopBar/OhmMenu.jsx:114
-#: src/components/TopBar/OhmMenu.jsx:127
+#: src/components/TopBar/TeloMenu.jsx:114
+#: src/components/TopBar/TeloMenu.jsx:127
 msgid "Buy on {0}"
 msgstr "{0} 에서 구입"
 
@@ -201,8 +201,8 @@ msgid "Connect Wallet"
 msgstr "지갑 연결"
 
 #: src/views/Stake/Stake.tsx:268
-msgid "Connect your wallet to stake OHM"
-msgstr "OHM 스테이크를 위해 지갑 연결"
+msgid "Connect your wallet to stake TELO"
+msgstr "TELO 스테이크를 위해 지갑 연결"
 
 #: src/views/Zap/Zap.jsx:37
 msgid "Connect your wallet to use Zap"
@@ -230,16 +230,16 @@ msgid "Deposit"
 msgstr "예치"
 
 #: src/views/33Together/PoolDeposit.jsx:162
-msgid "Deposit sOHM"
-msgstr "sOHM 예치"
+msgid "Deposit sTELO"
+msgstr "sTELO 예치"
 
 #: src/views/33Together/PoolDeposit.jsx:100
-msgid "Deposit sOHM to win! Once deposited, you will receive a corresponding amount of 33T and be entered to win until your sOHM is withdrawn."
-msgstr "우승하기 위해 sOHM을 예치하세요! 한 번 예치되고 나면, 상응하는 33T를 받게 되고 출금 전 까지 게임에 참여하게 됩니다."
+msgid "Deposit sTELO to win! Once deposited, you will receive a corresponding amount of 33T and be entered to win until your sTELO is withdrawn."
+msgstr "우승하기 위해 sTELO을 예치하세요! 한 번 예치되고 나면, 상응하는 33T를 받게 되고 출금 전 까지 게임에 참여하게 됩니다."
 
 #: src/views/33Together/PoolDeposit.jsx:179
-msgid "Depositing {quantity} sOHM will increase odds of winning to 1 in {newOdds}"
-msgstr "{quantity} 만큼의 sOHM을 예치하면 {newOdds} 분의 1 만큼 우승 배당률이 상승합니다. "
+msgid "Depositing {quantity} sTELO will increase odds of winning to 1 in {newOdds}"
+msgstr "{quantity} 만큼의 sTELO을 예치하면 {newOdds} 분의 1 만큼 우승 배당률이 상승합니다. "
 
 #: src/views/33Together/PoolDeposit.jsx:112
 msgid "Deposits can be made once the prize has been awarded."
@@ -351,8 +351,8 @@ msgid "Max You Can Buy"
 msgstr "구입 가능한 최대"
 
 #: src/views/Stake/Stake.tsx:194
-msgid "Migrate sOHM!"
-msgstr "sOHM 마이그레이트 하세요!"
+msgid "Migrate sTELO!"
+msgstr "sTELO 마이그레이트 하세요!"
 
 #: src/views/Zap/ZapStakeAction.jsx:340
 msgid "Minimum You Get"
@@ -379,15 +379,15 @@ msgstr "다음 어워드"
 #~ msgstr "알림: \"기능 승인\" 트랜젝션은 최초 스테이킹/언스테이킹시에만 필요로 합니다; 이후 스테이킹/언스테이킹시에는 \"스테이크\" 또는 \"언스테이크\" 트랜젝션만 수행하면 됩니다."
 
 #: src/views/ChooseBond/ChooseBond.tsx:102
-msgid "OHM Price"
-msgstr "OHM 가격"
+msgid "TELO Price"
+msgstr "TELO 가격"
 
 #: src/views/TreasuryDashboard/TreasuryDashboard.jsx:286
-#~ msgid "OHM Staked"
-#~ msgstr "스테이크된 OHM"
+#~ msgid "TELO Staked"
+#~ msgstr "스테이크된 TELO"
 
 #: src/views/Zap/ZapInfo.jsx:106
-msgid "OlyZap reduces complexity, saves you time and keeps you here on Olympus."
+msgid "OlyZap reduces complexity, saves you time and keeps you here on Telesto."
 msgstr ""
 
 #: src/views/404/NotFound.tsx:14
@@ -412,8 +412,8 @@ msgstr "계류중..."
 #: src/views/Bond/BondPurchase.jsx:147
 #: src/views/Stake/Stake.tsx:304
 #: src/views/Stake/Stake.tsx:311
-msgid "Please approve Olympus Dao to use your"
-msgstr "OlympusDAO를 승인해 주세요"
+msgid "Please approve Telesto Dao to use your"
+msgstr "TelestoWorld를 승인해 주세요"
 
 #: src/views/Bond/BondPurchase.jsx:52
 msgid "Please enter a valid value!"
@@ -454,8 +454,8 @@ msgid "Prize is being awarded"
 msgstr "상금이 지급중 입니다."
 
 #: src/views/TreasuryDashboard/TreasuryDashboard.jsx:248
-#~ msgid "Protocol Owned Liquidity OHM-DAI"
-#~ msgstr "프로토콜 소유 유동성 OHM-DAI"
+#~ msgid "Protocol Owned Liquidity TELO-DAI"
+#~ msgstr "프로토콜 소유 유동성 TELO-DAI"
 
 #: src/views/ChooseBond/BondRow.jsx:55
 #: src/views/ChooseBond/ChooseBond.tsx:127
@@ -537,8 +537,8 @@ msgid "Stake"
 msgstr "스테이크"
 
 #: src/views/Stake/Stake.tsx:355
-msgid "Stake OHM"
-msgstr "OHM 스테이크"
+msgid "Stake TELO"
+msgstr "TELO 스테이크"
 
 #: src/views/Stake/ExternalStakePool.jsx:144
 #: src/views/Stake/ExternalStakePool.jsx:212
@@ -558,11 +558,11 @@ msgid "Staking"
 msgstr ""
 
 #: src/slices/PendingTxnsSlice.ts:29
-msgid "Staking OHM"
-msgstr "스테이킹 중인 OHM"
+msgid "Staking TELO"
+msgstr "스테이킹 중인 TELO"
 
 #: src/views/Zap/ZapInfo.jsx:132
-msgid "Staking is the primary value accrual strategy of Olympus. When you stake, you lock OHM and receive an equal amount of sOHM."
+msgid "Staking is the primary value accrual strategy of Telesto. When you stake, you lock TELO and receive an equal amount of sTELO."
 msgstr ""
 
 #: src/views/Dashboard/Dashboard.jsx:66
@@ -570,15 +570,15 @@ msgid "Supply (circulating/total)"
 msgstr "공급량 (순환/총)"
 
 #: src/views/Zap/ZapStakeHeader.jsx:43
-msgid "Swap for OHM"
+msgid "Swap for TELO"
 msgstr ""
 
 #: src/views/Zap/ZapStakeHeader.jsx:30
-msgid "Swap for sOHM"
+msgid "Swap for sTELO"
 msgstr ""
 
 #: src/views/Zap/ZapCta.jsx:58
-msgid "Swap into sOHM"
+msgid "Swap into sTELO"
 msgstr ""
 
 #: src/views/Stake/ExternalStakePool.jsx:91
@@ -587,8 +587,8 @@ msgid "TVD"
 msgstr "TVD"
 
 #: src/views/TreasuryDashboard/TreasuryDashboard.jsx:158
-#~ msgid "The current index tracks the amount of sOHM accumulated since the beginning of staking. Basically, how much sOHM one would have if they staked and held a single OHM from day 1."
-#~ msgstr "현재 인덱스는 가장 최초 스테이킹 시점부터 sOHM이 얼만큼 누적되었는지를 추적합니다. 기본적으로, 첫 날에 1개의 OHM을 스테이킹 했을 경우 현재 얼만큼의 sOHM이 되었는지를 보여줍니다."
+#~ msgid "The current index tracks the amount of sTELO accumulated since the beginning of staking. Basically, how much sTELO one would have if they staked and held a single TELO from day 1."
+#~ msgstr "현재 인덱스는 가장 최초 스테이킹 시점부터 sTELO이 얼만큼 누적되었는지를 추적합니다. 기본적으로, 첫 날에 1개의 TELO을 스테이킹 했을 경우 현재 얼만큼의 sTELO이 되었는지를 보여줍니다."
 
 #: src/views/33Together/PoolDeposit.jsx:109
 msgid "This Prize Pool is unable to accept deposits at this time."
@@ -628,29 +628,29 @@ msgstr "금고 잔고"
 msgid "Unstake"
 msgstr "언스테이크"
 
-#: src/components/TopBar/OhmMenu.jsx:147
+#: src/components/TopBar/TeloMenu.jsx:147
 #~ msgid "Unstake LP Token"
 #~ msgstr "LP 토큰 언스테이크"
 
-#: src/components/TopBar/OhmMenu.jsx:226
+#: src/components/TopBar/TeloMenu.jsx:226
 msgid "Unstake Legacy LP Token"
 msgstr "지난 LP 토큰 언스테이크"
 
 #: src/views/Stake/Stake.tsx:384
-msgid "Unstake OHM"
-msgstr "OHM 언스테이크"
+msgid "Unstake TELO"
+msgstr "TELO 언스테이크"
 
 #: src/views/Stake/Stake.tsx:406
 msgid "Unstaked Balance"
 msgstr "언스테이크 된 잔고"
 
 #: src/slices/PendingTxnsSlice.ts:29
-msgid "Unstaking sOHM"
-msgstr "sOHM 언스테이킹"
+msgid "Unstaking sTELO"
+msgstr "sTELO 언스테이킹"
 
 #: src/slices/PendingTxnsSlice.ts:33
-msgid "Unwrapping sOHM"
-msgstr "sOHM 래핑하기"
+msgid "Unwrapping sTELO"
+msgstr "sTELO 래핑하기"
 
 #: src/views/Bond/BondPurchase.jsx:268
 #: src/views/Bond/BondRedeem.jsx:137
@@ -675,24 +675,24 @@ msgid "Withdraw Early & pay"
 msgstr "초기 출금하고 지불하기"
 
 #: src/views/33Together/PoolWithdraw.jsx:154
-msgid "Withdraw sOHM"
-msgstr "sOHM 출금"
+msgid "Withdraw sTELO"
+msgstr "sTELO 출금"
 
 #: src/views/33Together/PoolWithdraw.jsx:105
 msgid "Withdrawals can be made once the prize has been awarded."
 msgstr "상금이 지급된 후 출금할 수 있습니다."
 
 #: src/views/33Together/PoolWithdraw.jsx:161
-msgid "Withdrawing {quantity} sOHM reduces your odds of winning to 1 in {newOdds}"
-msgstr "{quantity} sOHM을 출금하면 우승 배당률이 {newOdds}분의 1로 줄어듭니다."
+msgid "Withdrawing {quantity} sTELO reduces your odds of winning to 1 in {newOdds}"
+msgstr "{quantity} sTELO을 출금하면 우승 배당률이 {newOdds}분의 1로 줄어듭니다."
 
 #: src/views/Stake/Stake.tsx:442
 msgid "Wrapped Balance"
 msgstr "래핑된 잔고"
 
 #: src/slices/PendingTxnsSlice.ts:33
-msgid "Wrapping OHM"
-msgstr "OHM 래핑하기"
+msgid "Wrapping TELO"
+msgstr "TELO 래핑하기"
 
 #: src/views/33Together/PoolInfo.jsx:107
 msgid "Yield Source"
@@ -703,7 +703,7 @@ msgid "You Get"
 msgstr ""
 
 #: src/views/Zap/ZapInfo.jsx:124
-msgid "You Get sOHM"
+msgid "You Get sTELO"
 msgstr ""
 
 #: src/views/Zap/ZapInfo.jsx:73
@@ -724,13 +724,13 @@ msgstr "예치된 잔고를 언제든 출금할 수 있습니다. 잔고를 출�
 
 #: src/views/Stake/Stake.tsx:130
 #: src/views/Stake/Stake.tsx:130
-msgid "You cannot stake more than your OHM balance."
-msgstr "OHM 잔고 보다 더 많은 양을 스테이크 할 수 없습니다."
+msgid "You cannot stake more than your TELO balance."
+msgstr "TELO 잔고 보다 더 많은 양을 스테이크 할 수 없습니다."
 
 #: src/views/Stake/Stake.tsx:134
 #: src/views/Stake/Stake.tsx:134
-msgid "You cannot unstake more than your sOHM balance."
-msgstr "sOHM 잔고 보다 더 많은 양을 언스테이크 할 수 없습니다."
+msgid "You cannot unstake more than your sTELO balance."
+msgstr "sTELO 잔고 보다 더 많은 양을 언스테이크 할 수 없습니다."
 
 #: src/views/33Together/PoolWithdraw.jsx:86
 msgid "You cannot withdraw more than your pool balance"
@@ -777,7 +777,7 @@ msgid "Zap is a swap"
 msgstr ""
 
 #: src/views/Zap/ZapCta.jsx:40
-msgid "Zap with more assets and stake <0>OHM</0>"
+msgid "Zap with more assets and stake <0>TELO</0>"
 msgstr ""
 
 #: src/views/Zap/ZapStakeAction.jsx:358
@@ -821,12 +821,12 @@ msgid "min"
 msgstr "분"
 
 #: src/views/33Together/PoolInfo.jsx:158
-msgid "sOHM Pool Details"
-msgstr "sOHM 풀 정보"
+msgid "sTELO Pool Details"
+msgstr "sTELO 풀 정보"
 
 #: src/views/33Together/PoolInfo.jsx:150
-msgid "sOHM Prize Pool"
-msgstr "sOHM 상금 풀"
+msgid "sTELO Prize Pool"
+msgstr "sTELO 상금 풀"
 
 #: src/views/33Together/PoolPrize.jsx:160
 msgid "sec"

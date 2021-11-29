@@ -25,7 +25,7 @@ msgstr "一起 3, 3"
 msgid "A zap swap is a series of smart contracts that deploys one asset to another a protocol to handle a trusted transaction."
 msgstr "Zap 换币是一系列的智能合约，将一项资产使用到另一项协议以处理一笔受信任的交易。"
 
-#: src/components/TopBar/OhmMenu.jsx:155
+#: src/components/TopBar/TeloMenu.jsx:155
 msgid "ADD TOKEN TO WALLET"
 msgstr "将代币加入钱包"
 
@@ -66,8 +66,8 @@ msgid "Asset"
 msgstr "资产"
 
 #: src/views/Zap/ZapStakeHeader.jsx:56
-msgid "Auto staked for sOHM"
-msgstr "自动以 sOHM 进行质押"
+msgid "Auto staked for sTELO"
+msgstr "自动以 sTELO 进行质押"
 
 #: src/views/33Together/PoolPrize.jsx:114
 msgid "Award Balance will grow at 1st rebase."
@@ -105,8 +105,8 @@ msgstr "债券折扣"
 msgid "Bond {0}"
 msgstr "债券 {0}"
 
-#: src/components/TopBar/OhmMenu.jsx:114
-#: src/components/TopBar/OhmMenu.jsx:127
+#: src/components/TopBar/TeloMenu.jsx:114
+#: src/components/TopBar/TeloMenu.jsx:127
 msgid "Buy on {0}"
 msgstr "从 {0} 购买"
 
@@ -168,8 +168,8 @@ msgid "Connect Wallet"
 msgstr "连接钱包"
 
 #: src/views/Stake/Stake.tsx:268
-msgid "Connect your wallet to stake OHM"
-msgstr "连接您的钱包以质押 OHM"
+msgid "Connect your wallet to stake TELO"
+msgstr "连接您的钱包以质押 TELO"
 
 #: src/views/Zap/Zap.jsx:37
 msgid "Connect your wallet to use Zap"
@@ -197,16 +197,16 @@ msgid "Deposit"
 msgstr "存入"
 
 #: src/views/33Together/PoolDeposit.jsx:162
-msgid "Deposit sOHM"
-msgstr "存入 sOHM"
+msgid "Deposit sTELO"
+msgstr "存入 sTELO"
 
 #: src/views/33Together/PoolDeposit.jsx:100
-msgid "Deposit sOHM to win! Once deposited, you will receive a corresponding amount of 33T and be entered to win until your sOHM is withdrawn."
-msgstr "存入 sOHM 即可获胜！存入后，您将收到相对应数量的 33T 并将参与游戏直到您的 sOHM 被提取。"
+msgid "Deposit sTELO to win! Once deposited, you will receive a corresponding amount of 33T and be entered to win until your sTELO is withdrawn."
+msgstr "存入 sTELO 即可获胜！存入后，您将收到相对应数量的 33T 并将参与游戏直到您的 sTELO 被提取。"
 
 #: src/views/33Together/PoolDeposit.jsx:179
-msgid "Depositing {quantity} sOHM will increase odds of winning to 1 in {newOdds}"
-msgstr "存入 {quantity} sOHM 将在 {newOdds} 中将获胜几率增加到 1"
+msgid "Depositing {quantity} sTELO will increase odds of winning to 1 in {newOdds}"
+msgstr "存入 {quantity} sTELO 将在 {newOdds} 中将获胜几率增加到 1"
 
 #: src/views/33Together/PoolDeposit.jsx:112
 msgid "Deposits can be made once the prize has been awarded."
@@ -310,8 +310,8 @@ msgid "Max You Can Buy"
 msgstr "您可以购买的最大数量"
 
 #: src/views/Stake/Stake.tsx:194
-msgid "Migrate sOHM!"
-msgstr "迁移 sOHM！"
+msgid "Migrate sTELO!"
+msgstr "迁移 sTELO！"
 
 #: src/views/Zap/ZapStakeAction.jsx:340
 msgid "Minimum You Get"
@@ -330,12 +330,12 @@ msgid "Next award"
 msgstr "下一个奖赏"
 
 #: src/views/ChooseBond/ChooseBond.tsx:102
-msgid "OHM Price"
-msgstr "OHM 价格"
+msgid "TELO Price"
+msgstr "TELO 价格"
 
 #: src/views/Zap/ZapInfo.jsx:106
-msgid "OlyZap reduces complexity, saves you time and keeps you here on Olympus."
-msgstr "OlyZap 降低了复杂性，节省了您的时间，并让您留在 Olympus 这里。"
+msgid "OlyZap reduces complexity, saves you time and keeps you here on Telesto."
+msgstr "OlyZap 降低了复杂性，节省了您的时间，并让您留在 Telesto 这里。"
 
 #: src/views/404/NotFound.tsx:14
 msgid "Page not found"
@@ -359,8 +359,8 @@ msgstr "待定中..."
 #: src/views/Bond/BondPurchase.jsx:147
 #: src/views/Stake/Stake.tsx:304
 #: src/views/Stake/Stake.tsx:311
-msgid "Please approve Olympus Dao to use your"
-msgstr "请批准 Olympus Dao 使用您的"
+msgid "Please approve Telesto Dao to use your"
+msgstr "请批准 Telesto Dao 使用您的"
 
 #: src/views/Bond/BondPurchase.jsx:52
 msgid "Please enter a valid value!"
@@ -472,8 +472,8 @@ msgid "Stake"
 msgstr "质押"
 
 #: src/views/Stake/Stake.tsx:355
-msgid "Stake OHM"
-msgstr "质押 OHM"
+msgid "Stake TELO"
+msgstr "质押 TELO"
 
 #: src/views/Stake/ExternalStakePool.jsx:144
 #: src/views/Stake/ExternalStakePool.jsx:212
@@ -493,28 +493,28 @@ msgid "Staking"
 msgstr "质押中"
 
 #: src/slices/PendingTxnsSlice.ts:29
-msgid "Staking OHM"
-msgstr "正在质押 OHM"
+msgid "Staking TELO"
+msgstr "正在质押 TELO"
 
 #: src/views/Zap/ZapInfo.jsx:132
-msgid "Staking is the primary value accrual strategy of Olympus. When you stake, you lock OHM and receive an equal amount of sOHM."
-msgstr "质押是 Olympus 主要积累价值的策略。当您质押时，您将锁定 OHM 并获得等量的 sOHM。"
+msgid "Staking is the primary value accrual strategy of Telesto. When you stake, you lock TELO and receive an equal amount of sTELO."
+msgstr "质押是 Telesto 主要积累价值的策略。当您质押时，您将锁定 TELO 并获得等量的 sTELO。"
 
 #: src/views/Dashboard/Dashboard.jsx:66
 msgid "Supply (circulating/total)"
 msgstr "供应（流通/总量）"
 
 #: src/views/Zap/ZapStakeHeader.jsx:43
-msgid "Swap for OHM"
-msgstr "换 OHM"
+msgid "Swap for TELO"
+msgstr "换 TELO"
 
 #: src/views/Zap/ZapStakeHeader.jsx:30
-msgid "Swap for sOHM"
-msgstr "换 sOHM"
+msgid "Swap for sTELO"
+msgstr "换 sTELO"
 
 #: src/views/Zap/ZapCta.jsx:58
-msgid "Swap into sOHM"
-msgstr "换取 OHM"
+msgid "Swap into sTELO"
+msgstr "换取 TELO"
 
 #: src/views/Stake/ExternalStakePool.jsx:91
 #: src/views/Stake/ExternalStakePool.jsx:176
@@ -559,25 +559,25 @@ msgstr "金库余额"
 msgid "Unstake"
 msgstr "取消质押"
 
-#: src/components/TopBar/OhmMenu.jsx:226
+#: src/components/TopBar/TeloMenu.jsx:226
 msgid "Unstake Legacy LP Token"
 msgstr "取消质押旧的 LP 代币"
 
 #: src/views/Stake/Stake.tsx:384
-msgid "Unstake OHM"
-msgstr "取消质押 OHM"
+msgid "Unstake TELO"
+msgstr "取消质押 TELO"
 
 #: src/views/Stake/Stake.tsx:406
 msgid "Unstaked Balance"
 msgstr "取消质押余额"
 
 #: src/slices/PendingTxnsSlice.ts:29
-msgid "Unstaking sOHM"
-msgstr "正在取消质押 sOHM"
+msgid "Unstaking sTELO"
+msgstr "正在取消质押 sTELO"
 
 #: src/slices/PendingTxnsSlice.ts:33
-msgid "Unwrapping sOHM"
-msgstr "去包装 sOHM"
+msgid "Unwrapping sTELO"
+msgstr "去包装 sTELO"
 
 #: src/views/Bond/BondPurchase.jsx:268
 #: src/views/Bond/BondRedeem.jsx:137
@@ -602,24 +602,24 @@ msgid "Withdraw Early & pay"
 msgstr "提早取款并付款"
 
 #: src/views/33Together/PoolWithdraw.jsx:154
-msgid "Withdraw sOHM"
-msgstr "提取 sOHM"
+msgid "Withdraw sTELO"
+msgstr "提取 sTELO"
 
 #: src/views/33Together/PoolWithdraw.jsx:105
 msgid "Withdrawals can be made once the prize has been awarded."
 msgstr "中奖后可以进行提款"
 
 #: src/views/33Together/PoolWithdraw.jsx:161
-msgid "Withdrawing {quantity} sOHM reduces your odds of winning to 1 in {newOdds}"
-msgstr "提取 {quantity} sOHM 会将您获胜的几率从 {newOdds} 降低到 1"
+msgid "Withdrawing {quantity} sTELO reduces your odds of winning to 1 in {newOdds}"
+msgstr "提取 {quantity} sTELO 会将您获胜的几率从 {newOdds} 降低到 1"
 
 #: src/views/Stake/Stake.tsx:442
 msgid "Wrapped Balance"
 msgstr "包装的余额"
 
 #: src/slices/PendingTxnsSlice.ts:33
-msgid "Wrapping OHM"
-msgstr "包装 OHM"
+msgid "Wrapping TELO"
+msgstr "包装 TELO"
 
 #: src/views/33Together/PoolInfo.jsx:107
 msgid "Yield Source"
@@ -630,8 +630,8 @@ msgid "You Get"
 msgstr "你获得 "
 
 #: src/views/Zap/ZapInfo.jsx:124
-msgid "You Get sOHM"
-msgstr "你获得 sOHM"
+msgid "You Get sTELO"
+msgstr "你获得 sTELO"
 
 #: src/views/Zap/ZapInfo.jsx:73
 msgid "You Give"
@@ -651,13 +651,13 @@ msgstr "您可以随时提取存入的资金。由于提取资金，您将减少
 
 #: src/views/Stake/Stake.tsx:130
 #: src/views/Stake/Stake.tsx:130
-msgid "You cannot stake more than your OHM balance."
-msgstr "您不能质押超过您的 OHM 余额。"
+msgid "You cannot stake more than your TELO balance."
+msgstr "您不能质押超过您的 TELO 余额。"
 
 #: src/views/Stake/Stake.tsx:134
 #: src/views/Stake/Stake.tsx:134
-msgid "You cannot unstake more than your sOHM balance."
-msgstr "您不能取消质押超过您的 sOHM 余额。"
+msgid "You cannot unstake more than your sTELO balance."
+msgstr "您不能取消质押超过您的 sTELO 余额。"
 
 #: src/views/33Together/PoolWithdraw.jsx:86
 msgid "You cannot withdraw more than your pool balance"
@@ -700,8 +700,8 @@ msgid "Zap is a swap"
 msgstr "Zap 提供换币"
 
 #: src/views/Zap/ZapCta.jsx:40
-msgid "Zap with more assets and stake <0>OHM</0>"
-msgstr "使用 Zap 换取更多资产并质押 <0>OHM</0>"
+msgid "Zap with more assets and stake <0>TELO</0>"
+msgstr "使用 Zap 换取更多资产并质押 <0>TELO</0>"
 
 #: src/views/Zap/ZapStakeAction.jsx:358
 #: src/views/Zap/ZapStakeAction.jsx:408
@@ -744,12 +744,12 @@ msgid "min"
 msgstr "分钟"
 
 #: src/views/33Together/PoolInfo.jsx:158
-msgid "sOHM Pool Details"
-msgstr "sOHM 矿池详情"
+msgid "sTELO Pool Details"
+msgstr "sTELO 矿池详情"
 
 #: src/views/33Together/PoolInfo.jsx:150
-msgid "sOHM Prize Pool"
-msgstr "sOHM 奖池"
+msgid "sTELO Prize Pool"
+msgstr "sTELO 奖池"
 
 #: src/views/33Together/PoolPrize.jsx:160
 msgid "sec"

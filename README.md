@@ -1,9 +1,9 @@
-# Olympus translations
+# Telesto translations
 
 ## Translators
 ### How to become a translator
 
-Join us on the Olympus DAO discord server and introduce yourself in the #app-translations channel
+Join us on the Telesto DAO discord server and introduce yourself in the #app-translations channel
 
 Someone will set you up.
 
@@ -19,15 +19,15 @@ Someone will set you up.
 
 #### On the staging area
 
-We do not have an environment for you to check your translations immediately, you will have to wait for them to be published on the staging URL: https://staging.olympusdao.finance
+We do not have an environment for you to check your translations immediately, you will have to wait for them to be published on the staging URL: https://staging.telestodao.finance
 
 If you really want to check your translations and you have a bit of knowledge with git and npm do the following
 
 #### Locally
 
 ```
-git clone https://github.com/OlympusDAO/olympus-frontend.git
-cd olympus-frontend
+git clone https://github.com/TelestoWorld/telesto-frontend.git
+cd telesto-frontend
 yarn lingui:branch:develop
 yarn install
 yarn start
@@ -43,9 +43,9 @@ A browser showing you the site should start with the latest develop branch and y
 ### How to update the translations develop branch
 
 ```
-# Clone the Olympus frontend repository
-git clone https://github.com/OlympusDAO/olympus-frontend.git`
-cd olympus-frontend
+# Clone the Telesto frontend repository
+git clone https://github.com/TelestoWorld/telesto-frontend.git`
+cd telesto-frontend
 
 # Switch to the translations develop branch
 yarn lingui:branch:develop
@@ -53,7 +53,7 @@ yarn lingui:branch:develop
 # Install the application dependencies
 yarn install 
 
-# At this point your filesystem cointains the latest olympus-frontend develop branch with the latest olympus-translations develop branch as a submodule in src/locales/translations
+# At this point your filesystem cointains the latest telesto-frontend develop branch with the latest telesto-translations develop branch as a submodule in src/locales/translations
 # Extract the new translations
 yarn lingui:extract
 

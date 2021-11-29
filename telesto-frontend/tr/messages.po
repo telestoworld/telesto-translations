@@ -25,7 +25,7 @@ msgstr "3, 3 Together"
 msgid "A zap swap is a series of smart contracts that deploys one asset to another a protocol to handle a trusted transaction."
 msgstr ""
 
-#: src/components/TopBar/OhmMenu.jsx:155
+#: src/components/TopBar/TeloMenu.jsx:155
 msgid "ADD TOKEN TO WALLET"
 msgstr "Token'ları Cüzdanınıza Ekleyin"
 
@@ -70,7 +70,7 @@ msgid "Asset"
 msgstr "Varlık"
 
 #: src/views/Zap/ZapStakeHeader.jsx:56
-msgid "Auto staked for sOHM"
+msgid "Auto staked for sTELO"
 msgstr ""
 
 #: src/views/33Together/PoolPrize.jsx:114
@@ -86,8 +86,8 @@ msgid "Award period has finished, you can navigate to Pool Together's UI to comp
 msgstr "Ödül süresi sonra erdi, dağıtımı tamamlamak için Pool Together'ın arayüzüne girebilirsiniz."
 
 #: src/views/TreasuryDashboard/TreasuryDashboard.jsx:147
-#~ msgid "Backing per OHM"
-#~ msgstr "OHM başına ciro"
+#~ msgid "Backing per TELO"
+#~ msgstr "TELO başına ciro"
 
 #: src/views/Stake/ExternalStakePool.jsx:97
 #: src/views/Stake/ExternalStakePool.jsx:196
@@ -113,21 +113,21 @@ msgstr "Bono indirimleri"
 msgid "Bond {0}"
 msgstr ""
 
-#: src/components/TopBar/OhmMenu.jsx:104
-#: src/components/TopBar/OhmMenu.jsx:117
+#: src/components/TopBar/TeloMenu.jsx:104
+#: src/components/TopBar/TeloMenu.jsx:117
 #~ msgid "Buy on"
 #~ msgstr ""
 
-#: src/components/TopBar/OhmMenu.jsx:104
+#: src/components/TopBar/TeloMenu.jsx:104
 #~ msgid "Buy on Sushiswap"
 #~ msgstr ""
 
-#: src/components/TopBar/OhmMenu.jsx:117
+#: src/components/TopBar/TeloMenu.jsx:117
 #~ msgid "Buy on Uniswap"
 #~ msgstr ""
 
-#: src/components/TopBar/OhmMenu.jsx:114
-#: src/components/TopBar/OhmMenu.jsx:127
+#: src/components/TopBar/TeloMenu.jsx:114
+#: src/components/TopBar/TeloMenu.jsx:127
 msgid "Buy on {0}"
 msgstr ""
 
@@ -193,8 +193,8 @@ msgid "Connect Wallet"
 msgstr "Cüzdanınızı bağlayın"
 
 #: src/views/Stake/Stake.tsx:268
-msgid "Connect your wallet to stake OHM"
-msgstr "OHM yatırmak için Cüzdanınızı bağlayın"
+msgid "Connect your wallet to stake TELO"
+msgstr "TELO yatırmak için Cüzdanınızı bağlayın"
 
 #: src/views/Zap/Zap.jsx:37
 msgid "Connect your wallet to use Zap"
@@ -222,16 +222,16 @@ msgid "Deposit"
 msgstr "Yatır"
 
 #: src/views/33Together/PoolDeposit.jsx:162
-msgid "Deposit sOHM"
-msgstr "sOHM Yatır"
+msgid "Deposit sTELO"
+msgstr "sTELO Yatır"
 
 #: src/views/33Together/PoolDeposit.jsx:100
-msgid "Deposit sOHM to win! Once deposited, you will receive a corresponding amount of 33T and be entered to win until your sOHM is withdrawn."
+msgid "Deposit sTELO to win! Once deposited, you will receive a corresponding amount of 33T and be entered to win until your sTELO is withdrawn."
 msgstr ""
 
 #: src/views/33Together/PoolDeposit.jsx:179
-msgid "Depositing {quantity} sOHM will increase odds of winning to 1 in {newOdds}"
-msgstr "{quantity} sOHM yatırarak kazanma şansınız {newOdds}de 1 olacak."
+msgid "Depositing {quantity} sTELO will increase odds of winning to 1 in {newOdds}"
+msgstr "{quantity} sTELO yatırarak kazanma şansınız {newOdds}de 1 olacak."
 
 #: src/views/33Together/PoolDeposit.jsx:112
 msgid "Deposits can be made once the prize has been awarded."
@@ -343,8 +343,8 @@ msgid "Max You Can Buy"
 msgstr "Satın alabileceğiniz maksimum miktar"
 
 #: src/views/Stake/Stake.tsx:194
-msgid "Migrate sOHM!"
-msgstr "sOHM'unuzu taşıyın!"
+msgid "Migrate sTELO!"
+msgstr "sTELO'unuzu taşıyın!"
 
 #: src/views/Zap/ZapStakeAction.jsx:340
 msgid "Minimum You Get"
@@ -363,15 +363,15 @@ msgid "Next award"
 msgstr "Sıradaki Çekiliş"
 
 #: src/views/ChooseBond/ChooseBond.tsx:102
-msgid "OHM Price"
-msgstr "OHM Fiyatı"
+msgid "TELO Price"
+msgstr "TELO Fiyatı"
 
 #: src/views/TreasuryDashboard/TreasuryDashboard.jsx:286
-#~ msgid "OHM Staked"
-#~ msgstr "Yatırılan OHM Yüzdesi"
+#~ msgid "TELO Staked"
+#~ msgstr "Yatırılan TELO Yüzdesi"
 
 #: src/views/Zap/ZapInfo.jsx:106
-msgid "OlyZap reduces complexity, saves you time and keeps you here on Olympus."
+msgid "OlyZap reduces complexity, saves you time and keeps you here on Telesto."
 msgstr ""
 
 #: src/views/404/NotFound.tsx:14
@@ -396,7 +396,7 @@ msgstr "İşleniyor..."
 #: src/views/Bond/BondPurchase.jsx:147
 #: src/views/Stake/Stake.tsx:304
 #: src/views/Stake/Stake.tsx:311
-msgid "Please approve Olympus Dao to use your"
+msgid "Please approve Telesto Dao to use your"
 msgstr ""
 
 #: src/views/Bond/BondPurchase.jsx:52
@@ -438,8 +438,8 @@ msgid "Prize is being awarded"
 msgstr "Ödül dağıtılıyor"
 
 #: src/views/TreasuryDashboard/TreasuryDashboard.jsx:248
-#~ msgid "Protocol Owned Liquidity OHM-DAI"
-#~ msgstr "Protokole Ait OHM-DAI Likiditesi"
+#~ msgid "Protocol Owned Liquidity TELO-DAI"
+#~ msgstr "Protokole Ait TELO-DAI Likiditesi"
 
 #: src/views/ChooseBond/BondRow.jsx:55
 #: src/views/ChooseBond/ChooseBond.tsx:127
@@ -521,8 +521,8 @@ msgid "Stake"
 msgstr "Yatır"
 
 #: src/views/Stake/Stake.tsx:355
-msgid "Stake OHM"
-msgstr "OHM yatır"
+msgid "Stake TELO"
+msgstr "TELO yatır"
 
 #: src/views/Stake/ExternalStakePool.jsx:144
 #: src/views/Stake/ExternalStakePool.jsx:212
@@ -542,11 +542,11 @@ msgid "Staking"
 msgstr ""
 
 #: src/slices/PendingTxnsSlice.ts:29
-msgid "Staking OHM"
-msgstr "OHM yatırılıyor"
+msgid "Staking TELO"
+msgstr "TELO yatırılıyor"
 
 #: src/views/Zap/ZapInfo.jsx:132
-msgid "Staking is the primary value accrual strategy of Olympus. When you stake, you lock OHM and receive an equal amount of sOHM."
+msgid "Staking is the primary value accrual strategy of Telesto. When you stake, you lock TELO and receive an equal amount of sTELO."
 msgstr ""
 
 #: src/views/Dashboard/Dashboard.jsx:66
@@ -554,15 +554,15 @@ msgid "Supply (circulating/total)"
 msgstr "Arz (Dolaşımdaki/Toplam)"
 
 #: src/views/Zap/ZapStakeHeader.jsx:43
-msgid "Swap for OHM"
+msgid "Swap for TELO"
 msgstr ""
 
 #: src/views/Zap/ZapStakeHeader.jsx:30
-msgid "Swap for sOHM"
+msgid "Swap for sTELO"
 msgstr ""
 
 #: src/views/Zap/ZapCta.jsx:58
-msgid "Swap into sOHM"
+msgid "Swap into sTELO"
 msgstr ""
 
 #: src/views/Stake/ExternalStakePool.jsx:91
@@ -571,8 +571,8 @@ msgid "TVD"
 msgstr "Toplam yatırılan Miktar"
 
 #: src/views/TreasuryDashboard/TreasuryDashboard.jsx:158
-#~ msgid "The current index tracks the amount of sOHM accumulated since the beginning of staking. Basically, how much sOHM one would have if they staked and held a single OHM from day 1."
-#~ msgstr "Güncel Katsayı yatırımın başlangıcından itibaren ne kadar sOHM kazanıldığını gösterir."
+#~ msgid "The current index tracks the amount of sTELO accumulated since the beginning of staking. Basically, how much sTELO one would have if they staked and held a single TELO from day 1."
+#~ msgstr "Güncel Katsayı yatırımın başlangıcından itibaren ne kadar sTELO kazanıldığını gösterir."
 
 #: src/views/33Together/PoolDeposit.jsx:109
 msgid "This Prize Pool is unable to accept deposits at this time."
@@ -612,24 +612,24 @@ msgstr "Hazine Bakiyesi"
 msgid "Unstake"
 msgstr "Çek"
 
-#: src/components/TopBar/OhmMenu.jsx:226
+#: src/components/TopBar/TeloMenu.jsx:226
 msgid "Unstake Legacy LP Token"
 msgstr "Eski LP Token'larınızı çekmek"
 
 #: src/views/Stake/Stake.tsx:384
-msgid "Unstake OHM"
-msgstr "OHM çek"
+msgid "Unstake TELO"
+msgstr "TELO çek"
 
 #: src/views/Stake/Stake.tsx:406
 msgid "Unstaked Balance"
 msgstr ""
 
 #: src/slices/PendingTxnsSlice.ts:29
-msgid "Unstaking sOHM"
-msgstr "sOHM çekiliyor"
+msgid "Unstaking sTELO"
+msgstr "sTELO çekiliyor"
 
 #: src/slices/PendingTxnsSlice.ts:33
-msgid "Unwrapping sOHM"
+msgid "Unwrapping sTELO"
 msgstr ""
 
 #: src/views/Bond/BondPurchase.jsx:268
@@ -655,23 +655,23 @@ msgid "Withdraw Early & pay"
 msgstr "Erken çek ve ücret öde"
 
 #: src/views/33Together/PoolWithdraw.jsx:154
-msgid "Withdraw sOHM"
-msgstr "sOHM çek"
+msgid "Withdraw sTELO"
+msgstr "sTELO çek"
 
 #: src/views/33Together/PoolWithdraw.jsx:105
 msgid "Withdrawals can be made once the prize has been awarded."
 msgstr "Ödül dağıtıldıktan sonra para çekilebilir."
 
 #: src/views/33Together/PoolWithdraw.jsx:161
-msgid "Withdrawing {quantity} sOHM reduces your odds of winning to 1 in {newOdds}"
-msgstr "{quantity} sOHM çekmek kazanma şansınızı {newOdds}de 1'e düşürecektir"
+msgid "Withdrawing {quantity} sTELO reduces your odds of winning to 1 in {newOdds}"
+msgstr "{quantity} sTELO çekmek kazanma şansınızı {newOdds}de 1'e düşürecektir"
 
 #: src/views/Stake/Stake.tsx:442
 msgid "Wrapped Balance"
 msgstr ""
 
 #: src/slices/PendingTxnsSlice.ts:33
-msgid "Wrapping OHM"
+msgid "Wrapping TELO"
 msgstr ""
 
 #: src/views/33Together/PoolInfo.jsx:107
@@ -683,7 +683,7 @@ msgid "You Get"
 msgstr ""
 
 #: src/views/Zap/ZapInfo.jsx:124
-msgid "You Get sOHM"
+msgid "You Get sTELO"
 msgstr ""
 
 #: src/views/Zap/ZapInfo.jsx:73
@@ -704,13 +704,13 @@ msgstr ""
 
 #: src/views/Stake/Stake.tsx:130
 #: src/views/Stake/Stake.tsx:130
-msgid "You cannot stake more than your OHM balance."
-msgstr "OHM bakiyenizden daha fazla olan bir değeri yatıramazsınız."
+msgid "You cannot stake more than your TELO balance."
+msgstr "TELO bakiyenizden daha fazla olan bir değeri yatıramazsınız."
 
 #: src/views/Stake/Stake.tsx:134
 #: src/views/Stake/Stake.tsx:134
-msgid "You cannot unstake more than your sOHM balance."
-msgstr "sOHM bakiyenizden daha fazla olan bir değeri çekemezsiniz."
+msgid "You cannot unstake more than your sTELO balance."
+msgstr "sTELO bakiyenizden daha fazla olan bir değeri çekemezsiniz."
 
 #: src/views/33Together/PoolWithdraw.jsx:86
 msgid "You cannot withdraw more than your pool balance"
@@ -757,7 +757,7 @@ msgid "Zap is a swap"
 msgstr ""
 
 #: src/views/Zap/ZapCta.jsx:40
-msgid "Zap with more assets and stake <0>OHM</0>"
+msgid "Zap with more assets and stake <0>TELO</0>"
 msgstr ""
 
 #: src/views/Zap/ZapStakeAction.jsx:358
@@ -801,12 +801,12 @@ msgid "min"
 msgstr "dk."
 
 #: src/views/33Together/PoolInfo.jsx:158
-msgid "sOHM Pool Details"
-msgstr "sOHM Havuzu Detayları"
+msgid "sTELO Pool Details"
+msgstr "sTELO Havuzu Detayları"
 
 #: src/views/33Together/PoolInfo.jsx:150
-msgid "sOHM Prize Pool"
-msgstr "sOHM Ödül Havuzu"
+msgid "sTELO Prize Pool"
+msgstr "sTELO Ödül Havuzu"
 
 #: src/views/33Together/PoolPrize.jsx:160
 msgid "sec"
